@@ -1,0 +1,90 @@
+
+header{
+    background-color: #f30d5a;
+   
+   
+    color:#fff
+}
+.container{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.container a{
+ color: #fff;
+
+}
+.navbar-brand{
+    font-size: 40px;
+    font-weight: bolder
+}
+.col{
+    margin-top: 150px;
+    width: 550px;
+    margin-left: 50px;
+  }
+  .col button{
+    margin-top: 40px;
+    margin-left: 5px;
+   
+  }
+
+.image {
+
+    width: 250px;
+    height: auto;
+    position: relative;
+    left: 50px;
+    top:60px
+}
+
+.oser{
+    margin-top: 80px;
+margin-bottom: 50px;
+}
+.oser i{
+    color: rgb(189, 95, 67);
+    font-size: larger;
+}
+.oser i:hover{
+    color: rgb(194, 30, 9);
+}
+.kutta img{
+    width: 10%;
+    border-radius: 50%;
+   margin-top:50px;
+  
+    
+}
+
+.kutta
+{
+margin-top: 60px;
+margin-bottom: 300px;
+}
+.container-fluid{
+    background-color: #f30d5a;
+   color: #fff;
+}
+.price{
+    margin-top: 30px;
+  
+}
+.side{
+    background-color: #f30d5a;
+   color: #fff;
+   margin-top: 30px;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   margin-bottom: 20PX;
+}
+.side h3{
+    font-size: 50px;
+}
+.ico i{
+   padding:10px;
+}
+.cama{
+    list-style: none;
+   display: inline-flex;
+ padding-left: 0px;
+}
